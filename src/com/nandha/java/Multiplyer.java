@@ -10,6 +10,6 @@ public class Multiplyer {
 			System.out.println(total);
 		}
 		System.out.println(total);
-
+        System.out.println(total);
 	}
 }

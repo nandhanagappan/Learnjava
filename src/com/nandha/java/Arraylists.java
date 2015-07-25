@@ -19,6 +19,8 @@ public class Arraylists {
 		System.out.println(nakul.get(15));
 		nakul.add("vinay");
 		System.out.println(nakul.get(31));
+		System.out.println(nakul.get(15));
+		System.out.printl
 	}
 
 }
